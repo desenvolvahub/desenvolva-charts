@@ -3,7 +3,7 @@ entries:
   desenvolva-chart:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2024-07-16T13:13:40.323579136-03:00"
+    created: "2024-07-16T13:17:00.832088134-03:00"
     description: A Helm chart for Kubernetes
     digest: 85b020f7b4b65baa06d10daf1a3209ecceb2ee258602de51a42e968f0b9e6ade
     name: desenvolva-chart
@@ -11,4 +11,4 @@ entries:
     urls:
     - https://desenvolvahub.github.io/desenvolva-charts/desenvolva-chart-0.1.0.tgz
     version: 0.1.0
-generated: "2024-07-16T13:13:40.323134752-03:00"
+generated: "2024-07-16T13:17:00.83147224-03:00"
